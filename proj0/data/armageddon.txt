@@ -60,5 +60,5 @@ This file can be used to simulate the entrance of a black hole into
 the Solar System. Special effects can be observed such as the deformation of
 the asteroid field, the swing shot effect of Jupiter around the
 black hole and a collision between Jupiter and the Sun. Earth survives the
-entrance of the black hole but its orbit becomes extrememly eccentric.
+entrance of the black hole but its orbit becomes extremely eccentric.
 
